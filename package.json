@@ -1,0 +1,17 @@
+{
+  "name": "nutriscore_ml",
+  "version": "1.0.0",
+  "description": "Estimating the Nutri-Score grade from incomplete packaged-food label data: development and cross-database evaluation of a machine-learning model.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "docx": "^9.7.1",
+    "image-size": "^2.0.2"
+  }
+}

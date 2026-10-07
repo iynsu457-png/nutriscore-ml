@@ -1,0 +1,21 @@
+# environments
+.venv/
+node_modules/
+
+# large data and caches (regenerate with the scripts)
+data/
+ref/*.pm
+ref/categories_taxonomy.json
+
+# documents, figures, and binaries (not part of the code repo)
+*.docx
+*.pdf
+*.jpg
+*.jpeg
+*.png
+cdn_examples/
+manuscript/
+
+# OS files and logs
+.DS_Store
+*.log
